@@ -4,6 +4,14 @@ Esther Jorge Paramio
 
 En este repositorio en la carpeta *CrearTablasSQL* se encuentran los scripts de esta práctica y los diseños realizado con workbench tanto de viveros como de catastro de *ModeloLogicoRelacional* ya que estoy reutilizando el repositorio.
 
+## Modelo Relacional de Viveros
+
+![imagen vivero mlr](Modelos/viveros.png)
+
+## Modelo Relacional de Catastro
+
+![imagen vivero mlr](Modelos/catastro.png)
+
 # Triggers
 
 #### Dada la base de dato de viveros:
